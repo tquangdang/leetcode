@@ -2,6 +2,7 @@
 
 This section contains solutions and algorithms to Leetcode problems related to graphs.
 ## Table of Contents
+200. [Number of Islands](#200-number-of-islands)
 542. [01 Matrix](#542-01-matrix)
 733. [Flood Fill](#733-flood-fill)
 ### 542. 01 Matrix
@@ -12,3 +13,6 @@ This section contains solutions and algorithms to Leetcode problems related to g
 - [Problem Link](https://leetcode.com/problems/flood-fill/)
 - [Solution](depth-first-search/floodFill.py)
 
+### 200. Number of Islands
+- [Problem Link](https://leetcode.com/problems/number-of-islands/)
+- [Solution](depth-first-search/numberOfIslands.py)
