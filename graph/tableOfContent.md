@@ -6,9 +6,9 @@ This section contains solutions and algorithms to Leetcode problems related to g
 733. [Flood Fill](#733-flood-fill)
 ### 542. 01 Matrix
 - [Problem Link](https://leetcode.com/problems/01-matrix/description/)
-- [Solution](breadth-first%20search/01Matrix.py)
+- [Solution](breadth-first-search/01Matrix.py)
 
 ### 733. Flood Fill
 - [Problem Link](https://leetcode.com/problems/flood-fill/)
-- [Solution](depth-first%search/floodFill.py)
+- [Solution](depth-first-search/floodFill.py)
 
