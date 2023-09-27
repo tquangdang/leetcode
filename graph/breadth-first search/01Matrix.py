@@ -1,3 +1,10 @@
+"""
+Time complexity: O(n) - visit each cell once
+Space complexity: O(n) - size of the queue
+Thought process:
+- Treat 0s and 1s as layers of bfs algorithm. After each level, increment the distance to 1, and traverse to the next inner layer
+- Traverse through the matrix, append all 0s to the queue, and replace all 1s with -1 (unvisited), then perform bfs
+"""
 from collections import deque
 from typing import List
 class Solution:
