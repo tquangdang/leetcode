@@ -5,6 +5,7 @@ Thought process:
 - Perform dfs on the targeted pixel to fill them.
 - The important part is to set the condition of the recursion call
 """
+from typing import List
 class Solution:
     def floodFill(self, image: List[List[int]], sr: int, sc: int, color: int) -> List[List[int]]:
         # Keep a visited set 
