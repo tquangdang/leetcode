@@ -4,6 +4,7 @@ This section contains solutions and algorithms to Leetcode problems related to g
 ## Table of Contents
 200. [Number of Islands](#200-number-of-islands)
 542. [01 Matrix](#542-01-matrix)
+695. [Max Area of Island](#695-max-area-of-island)
 733. [Flood Fill](#733-flood-fill)
 
 ### 200. Number of Islands
