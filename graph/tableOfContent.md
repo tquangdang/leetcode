@@ -2,10 +2,10 @@
 
 This section contains solutions and algorithms to Leetcode problems related to graphs.
 ## Table of Contents
-200. [Number of Islands](#200-number-of-islands)
-542. [01 Matrix](#542-01-matrix)
-695. [Max Area of Island](#695-max-area-of-island)
-733. [Flood Fill](#733-flood-fill)
+[Number of Islands](#200-number-of-islands)
+[01 Matrix](#542-01-matrix)
+[Max Area of Island](#695-max-area-of-island)
+[Flood Fill](#733-flood-fill)
 
 ### 200. Number of Islands
 - [Problem Link](https://leetcode.com/problems/number-of-islands/)
