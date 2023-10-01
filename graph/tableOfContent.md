@@ -3,6 +3,7 @@
 This section contains solutions and algorithms to Leetcode problems related to graphs.
 ## Table of Contents
 - [Number of Islands](#200-number-of-islands)
+- [Course Schedule](#207-course-schedule)
 - [01 Matrix](#542-01-matrix)
 - [Max Area of Island](#695-max-area-of-island)
 - [Flood Fill](#733-flood-fill)
@@ -10,6 +11,10 @@ This section contains solutions and algorithms to Leetcode problems related to g
 ### 200. Number of Islands
 - [Problem Link](https://leetcode.com/problems/number-of-islands/)
 - [Solution](depth-first-search/numberOfIslands.py)
+
+### 207. Course Schedule
+- [Problem Link](https://leetcode.com/problems/course-schedule/description/)
+- [Solution](depth-first-search/courseSchedule.py)
 
 
 ### 542. 01 Matrix
