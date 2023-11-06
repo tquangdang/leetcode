@@ -4,6 +4,7 @@ This section contains solutions and algorithms to Leetcode problems related to g
 ## Table of Contents
 - [Number of Islands](#200-number-of-islands)
 - [Course Schedule](#207-course-schedule)
+- [Course Schedule II](#210-course-schedule-ii)
 - [01 Matrix](#542-01-matrix)
 - [Max Area of Island](#695-max-area-of-island)
 - [Flood Fill](#733-flood-fill)
@@ -16,6 +17,9 @@ This section contains solutions and algorithms to Leetcode problems related to g
 - [Problem Link](https://leetcode.com/problems/course-schedule/description/)
 - [Solution](depth-first-search/courseSchedule.py)
 
+### 210. Course Schedule II
+- [Problem Link](https://leetcode.com/problems/course-schedule-ii/)
+- [Solution](topological-sort/courseSchedule2.py)
 
 ### 542. 01 Matrix
 - [Problem Link](https://leetcode.com/problems/01-matrix/description/)
