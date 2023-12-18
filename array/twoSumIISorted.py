@@ -16,10 +16,10 @@ class Solution:
         while start < end:
             # Calculate the total
             total = numbers[start] + numbers[end]
-            # Decrease the total if it's smaller than the target
+            # Increase the total if it's smaller than the target
             if total < target:
                 start += 1
-            # Else, increase the total
+            # Else, decrease the total
             elif total > target:
                 end -= 1
             # If the target is found:
