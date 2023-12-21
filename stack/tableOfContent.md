@@ -1,4 +1,4 @@
-# Array
+# Stack
 
 This section contains solutions and algorithms to Leetcode problems related to stack
 ## Table of Contents.
