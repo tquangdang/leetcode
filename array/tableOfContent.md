@@ -2,12 +2,17 @@
 
 This section contains solutions and algorithms to Leetcode problems related to array
 ## Table of Contents.
+- [3Sum](#15-3sum)
 - [Best Time to Buy and Sell Stock](#121-best-time-to-buy-and-sell-stock)
 - [Longest Consecutive Sequence](#128-longest-consecutive-sequence)
 - [Find Minimum in Rotated Sorted Array](#153-find-minimum-in-rotated-sorted-array)
 - [Two Sum II - Input Array Is Sorted](#167-two-sum-ii---input-array-is-sorted)
 - [Product of Array Except Self](#238-product-of-array-except-self)
 - [Longest Repeating Character Replacement](#424-longest-repeating-character-replacement)
+
+### 15. 3Sum
+- [Problem Link](https://leetcode.com/problems/3sum/)
+- [Solution](./3Sum.py)
 ### 121. Best Time to Buy and Sell Stock
 - [Problem Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [Solution](./bestTimeToBuyAndSellStock.py)
